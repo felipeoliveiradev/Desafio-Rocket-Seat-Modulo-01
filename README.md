@@ -9,6 +9,7 @@
 <h2>Tecnologias pedidas ?</h2>
 <hr />
 <ul>
+<li>NodeJS</li>
 <li>ExpressJS</li>
 <li>Nunjucks</li>
 <li>EditorConﬁg </li>
